@@ -1,4 +1,4 @@
-# CVIP-Data-Science-Internship
+# CVIP-Data-Science-Internship-Phase-1-Tasks
 This repository consists of the project done as data science intern as part of Coderscave Virtual Internship Program
 
 Phase 1 Tasks 
